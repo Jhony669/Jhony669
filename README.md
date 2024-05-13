@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h2 align="left">My name is Jhony and I intend to be a Front-end professional</h2>
+<h2 align="left">My name is Jhony, I'm a front-end professional</h2>
 
 ###
 
